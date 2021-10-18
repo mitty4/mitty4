@@ -26,17 +26,18 @@ I'm prototyping & programming a robotic lawn mower using:
 
 Software        |         |Hardware                              |
 -------------   |---------|-------------                         |
-Python - OOP    |         |21" push mower                        |
+Python          |         |21" push mower                        |
 OpenCV          |         |Wheelchair Motors                |
 Neural Networks |         |GLONASS                               |
 Stereo Vision   |         |Dual Motor Driver                     |
 Linux           |         |NVidia Jetson Nano ( for the edge GPU)|
 Git             |         |
+Object Oriented Programming | | |
 
  <br>
  <br>
  
- 1. First, I built the from-scratch prototype to be remote controlled (I get extended looks from my neighbors when mowing my lawn from a chair on my porch). 
+ 1. First, I built the from-scratch prototype to be remote controlled (I get funny looks from my neighbors when mowing my lawn from a chair on my porch). 
  2. Now, I am programming the automated navigation with Python, serial ports and GLONASS (I will soon have free weekends during the summer to do more automation projects like this one).
  3. Next, I will add obstacle avoidance using binocular vision and OpenCV (I will synthesize a cutting edge technique learned from reading reasearch papers - called the manduchi algorithm.. or so I think I will).
  
