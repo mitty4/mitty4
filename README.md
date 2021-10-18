@@ -3,13 +3,17 @@
 I'm Mitchell LaBauve, a developer at my core ...just wait - you'll see!
 
 
+
+
 ### 📖 My Story:
 Professionally, I left the tech space... but the developer stayed with me. 
 
 Now, I am making my way back into a developer role. 
 
 
-### Currently,
+
+
+### ⏰ Currently,
 I'm prototyping & programming a robotic lawn mower using:
 
             * Python - object oriented programming,
