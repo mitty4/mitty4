@@ -1,9 +1,9 @@
 ### Hi 👋,
 
-I'm Mitchell LaBauve, a developer at my core - just wait... you'll see!
+I'm Mitchell LaBauve, a developer at my core ...just wait - you'll see!
 
 
-### My Story:
+### 📖 My Story:
 Professionally, I left the tech space... but the developer stayed with me. 
 
 Now, I am making my way back into a developer role. 
