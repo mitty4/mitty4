@@ -12,7 +12,7 @@
 - - - - 
 - Professionally, I left the tech space.
 - Now, I am looking to re-enter a developer role.
-- Honestly, the developer never left me... see for yourself.  
+- Honestly though, the developer never left me... see for yourself.  
 
 
 <br>
@@ -39,7 +39,7 @@ Object Oriented Programming | | |
  
  1. First, I built the from-scratch prototype to be remote controlled (I get funny looks from my neighbors when mowing my lawn from a chair on my porch). 
  2. Now, I am programming the automated navigation with Python, serial ports and GLONASS (I will soon have free weekends during the summer to do more automation projects like this one).
- 3. Next, I will add obstacle avoidance using binocular vision and OpenCV (I will synthesize a cutting edge technique learned from reading reasearch papers - called the manduchi algorithm.. or so I think I will).
+ 3. Next, I will add obstacle avoidance using binocular vision and OpenCV (I will synthesize a cutting edge technique only found in reasearch papers - called the Manduchi Algorithm.. or so I think I will).
  
  <br>
  <br>
