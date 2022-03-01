@@ -57,7 +57,7 @@ Object Oriented Programming | | |
 
 ### 🏃 Where I'm Going... 
 - - - - 
-   - I am interested in joining a small company that fosters continual growth in the healthcare or IT industry and makes use of data in it's decision making.
+   - I am looking to join a small company that fosters continual growth in the healthcare or IT industry and makes use of data in it's decision making. However, I am open to discussing any opportunity.
 
 
 <!--
