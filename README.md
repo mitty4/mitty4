@@ -9,9 +9,9 @@
 
 ### 📖 My Story:
 - - - - 
-- I am extremely grateful for every opportunity that I have had to learn and grow in more than just technical roles.
-- One example is I worked as an Emergency Medical Technician (EMT-B) working on an ambulance for 2.5 years.
-- This part of my background is worth mentioning because it enabled me to develop deep communication skills that have been very helpful in my software engineering roles.
+- Surprised to hear that I worked as an Emergency Medical Technician (EMT-B) on an ambulance for 2.5 years?
+- Well, I mention that part of my life because it enabled me to develop deep communication skills that have been very helpful in my software engineering roles.
+- My current software engineering role is to help build an Enterprise level Saas that large data centers use to get traffic to their tools. 
 - I really enjoy working with people and I have an unshakeable passion for writing code and solving problems.
 - Check out some of my personal projects below...
 
@@ -20,7 +20,7 @@
 <br>
 
 
-### ⏰ The Crowd Favorite:
+### ⏰ My Favorite:
 - - - - 
 I prototyped & programmed a robotic lawn mower using:
 <br>
@@ -47,7 +47,7 @@ Object Oriented Programming | | |
  
 ### 🛠️ More Projects We Should Discuss
 - - - - 
-   - __Microgreens Farming Innovation and E-Commerce Website__ to order/subscribe to microgreen orders grown with my automoated process. (full-stack website) 
+   - __Microgreens Farming Innovation, and Accompanying E-Commerce Website__ to order/subscribe to microgreen orders grown with my automoated process. (full-stack website and 3D printed materials) 
    - __API Quant Trader__ using the TD Ameritrade API (algorithmic trading before TD Ameritrade became Charles Schwab)
    - __UI Wireframe Mockup__ for a health company idea (ui developer/designer)
    - __GoLang Encryption Tool__ to encrypt/decrypt files from the command line 
